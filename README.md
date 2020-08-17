@@ -1,3 +1,3 @@
 # C++ Library
 
-Hàm có sẵn để xài và nghiên cứu cho djxone123456
+Thuật toán và hàm có sẵn để sử dụng và nghiên cứu cho djxone123456
